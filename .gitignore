@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+/jspm_packages/
+
+# Production build outputs
+dist/
+build/
+.next/
+out/
+
+# Local environment / API keys / Secrets
+.env
+.env.local
+.env.*.local
+
+# Operating System garbage
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional: Personal VS Code settings
+# .vscode/
