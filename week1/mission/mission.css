@@ -1,0 +1,43 @@
+#content {
+    margin: 50px auto;
+    max-width: 40%;
+    border: 3px solid #ddd;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    font-size: 13px;
+    color: blue;
+}
+
+hr {
+    max-width: 70%;
+}
+
+#p-text {
+    max-width: 70%;
+    margin: auto;
+
+}
+
+p, ol {
+    font-size: 14px;
+    line-height: 1.5em;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 20%;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
